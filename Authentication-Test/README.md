@@ -1,6 +1,6 @@
 ## Foundry test for Authentication
 
-**Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.**
+**This test helps confirm that only legitimate owner can make withdrawal on this sample vault**
 
 
 ## Documentation
